@@ -1,2 +1,10 @@
-streamlit==1.28.1
-numpy==1.24.3
+# Scientific Vector Computing and Array Management
+numpy>=1.22.0
+scipy>=1.8.0
+
+# Macromolecular Active Site Parsing & wwPDB Integrations
+biopython>=1.79
+
+# Machine Learning & Transformer Models (ESM-2 Context Frameworks)
+torch>=2.0.0
+transformers>=4.30.0
